@@ -1,0 +1,13 @@
+1.git --version
+2.git config --global user.name "name"
+3.git config --global email.name "email"
+4.create a folder
+-git status
+-git init
+-cat > file.txt
+-git add --a or git add "file.txt"
+-git commit -m " what u did"
+5.to remove the git facility for that folder
+rm -rf .git
+
+
